@@ -1,0 +1,516 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.isour h2{
+padding-top: 99px;   
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FF8A63;
+}
+.NHconatiner{
+    width: 100%;
+    background-color: #FAFAFC;
+    
+}
+.NHcentr{
+    margin: auto;
+    width: 90%;
+}
+.NHlist h1{
+    font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #45525B;
+}
+.NHlist p{
+    padding-top: 11px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #6F7278;
+}
+.NHtop{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.NHphoto img{
+    width: 100%;
+    padding-top: 30px;
+   
+
+}
+.NHmidl{
+    padding-top: 20px;
+    text-align: center;
+}
+#NHhose{
+
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #6F7278;
+}
+#cali{
+    font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+
+color: #45525B;
+
+}
+
+.NHshow{
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 400;
+font-size: 15px;
+line-height: 21px;
+color: #45525B;
+display: flex;
+justify-content: center;
+}
+.NHdisp{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 216px;
+}
+
+.NHour h3{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FF8A63;
+}
+.NHour h1{
+    font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+color: #45525B;
+}
+.NHour p{
+    padding-top: 11px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #6F7278;
+}
+.NHview{
+  display: flex;
+}
+.NHhuman{
+    display: flex;
+    padding: 16px;
+}
+.NHname{
+    font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #45525B;
+}
+.NHname p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #45525B;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.NHestate{
+    
+    padding-top: 120px;
+     background-color:  #FAFAFC;
+}
+.NHnews{
+    text-align: center;
+}
+.NHnews h1{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #45525B;
+}
+.NHnews h3{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FF8A63;
+}
+.NHpress{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 24px;
+}
+.NHmarket h3{
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FF8A63;
+}
+#watch{
+    padding-top: 8px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #45525B;
+}
+.NHmarket p{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #6F7278;    
+}
+.NHroom{
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.monils{
+    padding-top: 200px;
+}
+.monils h3{
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FF8A63;
+}
+.monils h1{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #45525B;
+}
+.say{
+    display: flex;
+    justify-content: space-between;
+}
+.found{
+    margin-top: 23px;
+   border: 1px solid  rgba(82, 80, 59, 0.1);
+   border-radius: 4px;
+   width: 45%;
+   padding: 25px;
+}
+.found h2{
+    padding-top: 8px;
+    font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #333333;
+}
+.found p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #333333;
+}
+.foot{
+    margin-top: 150px;
+    color: white;
+    width: 100%;
+    background-color:  #45525B;
+    display: flex;
+    justify-content: center;
+
+    padding: 99px;
+}
+.latest{
+    width: 100%;
+    background-color: 
+    #292C32;
+}
+.infor{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-top: 100px;
+}
+.pages{
+    padding-top: 75px;
+    display: flex;
+    justify-content: space-evenly   ;
+    color: white;
+}
+.pages ul li a{
+    text-decoration: none;
+    color: white;
+}
+.pages ul li a:hover{
+  background-color: aqua;
+  border: none;
+  border-radius: 4px;
+  color: rgb(233, 38, 21);
+  transition: 0.7s ease;
+}
+.pages h3{
+    font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FF8A63;
+}
+.pages ul li {
+    list-style-type: none;
+    padding-top: 9px;
+}
+.letter p{
+  padding: 15px 0;
+}
+input{
+    padding: 6px 40px;
+    border-radius: 8px;
+    border: 1px solid #E5E7EB;
+}
+.llc{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    color: white;
+}
+.sotial {
+    padding-right: 100px;
+    
+   
+}
+.sotial img{
+    cursor: pointer;
+}
+.sotial:hover{
+    color: rgb(179, 172, 172);
+    transition: 0.7s ease;
+}
+.llc p{
+    padding-left: 100px;
+}
+.sotial img{
+    padding-left: 20px;
+}
+.seen{
+    text-align: center;
+}
+.seen h1{
+    padding: 11px;
+    font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+color: #FFFFFF;
+}
+.seen p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #FAFAFC;
+}
+.listin{
+    padding-top: 30px;
+    
+}
+.listin  button{
+    padding: 11px 18px;
+    border: none;
+    border-radius: 4px;
+   margin-right: 20px;
+   cursor: pointer;
+}
+.listin button:hover{
+    background-color: chartreuse;
+    border: none;
+    color: red;
+    transition: 0.7s ease;
+}
+
+.ishow h1{
+ padding-bottom: 11px;
+ font-family: 'Poppins';
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+color: #45525B;
+}
+.lorem p{
+    padding-bottom: 30px;
+    font-family: 'Poppins';
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #6F7278;
+}
+.isopsh{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.isleft img{
+    border-radius: 30px;
+}
+
+.isfight img{
+padding: 12px 12px;
+background: #45525B;
+margin: 44px 0px 9px 0px;
+
+}
+.isfight h1{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #45525B;
+}
+.isfight p{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #6F7278;
+margin-bottom: 27px;
+}
+.isposli{
+    width: 100%;
+}
+.isposli img{
+    margin: 87px 0px 88px 0px;
+width: 100%;
+}
+#isd{
+    background: #FAFAFC;
+border: 1px solid rgba(202, 204, 209, 0.2);
+border-radius: 10px;
+}
+
+.navbar{
+    padding: 10px;
+    background-color: aliceblue;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}   
+.ymcenter{
+    width: 80%;
+    margin: auto;
+}
+.flex .second {
+text-align: end;
+}
+.flex {
+   align-items: center;
+    display: flex;
+}
+.first{
+    width: 10%;
+}
+.second{
+    width: 90%;
+   
+display: flex;
+justify-content: flex-end;
+}
+.second ul{
+  list-style: none;
+text-decoration: none;
+    display: flex;
+text-align: end;
+    
+}
+.second ul li a{
+    text-decoration: none;
+margin-left: 40px;
+font-size: 20px;
+color: black;
+
+}
+.second ul li:hover {
+    padding: 5px;
+    background-color: black;
+}
+.second ul li:hover a{
+    color: aliceblue;
+}
+.conteienr2{
+    background-image:linear-gradient(rgba(250, 250, 252, 0.78), rgba(250, 250, 252, 0.78),rgba(250, 250, 252, 0.78) ), url(image/61127627883dbb0802b613e3_Hero\ Background\ 1.png);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+ 
+}
+.tolo{
+    width: 25%; 
+}
+.tolo p{
+    margin-top: 40px;
+    font-size: 32px;
+}
+.images{
+    margin-top: 300px;
+}
+.conteiner3{
+    width: 100%;
+    background-color: #FAFAFC;
+}
+.flexx{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.left{
+width: 28%;
+
+}
+.right{
+    width: 40%;
+    margin-left: 200px;
+}
+.left p{
+    font-size: 48px;
+}
+.ipsum{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.nulla{
+    margin-bottom: 50px;
+}
+.div{
+    display: flex;
+}
+.commodo{
+    margin-left: 10px;
+    margin-top: 40px;
+
+}
